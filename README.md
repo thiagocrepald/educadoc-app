@@ -5,7 +5,7 @@
 
 <h4>Description</h4>
 <blockquote>
-<p>Aplicativo de mensagens desenvolvido para suporte a médicos!</p>
+<p>Aplicativo de mensagens realtime disponibilizado para comunicação realtime e mentoria interna de médicos!</p>
 </blockquote>
 
 ##
