@@ -5,7 +5,7 @@
 
 <h4>Description</h4>
 <blockquote>
-<p>Aplicativo de mensagens realtime disponibilizado para comunicação realtime e mentoria interna de médicos!</p>
+<p>Aplicativo de mensagens realtime disponibilizado para comunicação realtime e mentoria interna de médicos, utilizando firebase!</p>
 </blockquote>
 
 ##
